@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Element Selectors Section */
+body {
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+header {
+    text-align: right;
+    margin-bottom: 5px;
+    color: forestgreen;
+    background-color: forestgreen;
+
+}
+
+h1,h2 {
+    
+}
+
+.deer {
+    margin: 20px;
+    border: 5px solid green;
+    padding: 20px;
+    background-color: tan;
+}
+
+.contact {
+    border: 5px solid blue;
+    border-style: groove;
+    width: 400px;
+}
+
+footer {
+    position: absolute;
+    margin-top: 0;
+    bottom: 0;
+    border-bottom: 10px solid darkgray;
+    color: chartreuse;
+}
+
+centertext {
+    text-align: center;
+}
+
+righttext {
+    text-align: right;
+}
